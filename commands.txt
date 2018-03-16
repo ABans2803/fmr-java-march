@@ -1,0 +1,16 @@
+unit testing
+
+address
+Spring in action, manning publications
+
+core spring certification
+
+mvn package
+
+set PATH=%PATH%;C:\tools\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin
+
+set JAVA_HOME=C:\Program Files\Java\jdk1.8.0_51
+
+java -Dactive.profiles=prod -jar target\<jar_name>
+
+abhishek.bansal@fmr.com
